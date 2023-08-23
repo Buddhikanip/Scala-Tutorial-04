@@ -12,3 +12,4 @@ object Q1 extends App(){
   println("Deposit amaount is : " + interest + "\nEarnings : "+ flat(interest) + "\nTotal : " +(interest+flat(interest)) )
 }
 
+// Test repo commit
